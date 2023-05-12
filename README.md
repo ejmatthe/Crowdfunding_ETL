@@ -14,7 +14,7 @@ An ETL pipeline was built using Python, Pandas, and Python dictionary methods to
 ## Process
 
 ### Extract and Transform
-*Data was extracted from the Crowdfunding and Contact Excel files
+* Data was extracted from the Crowdfunding and Contact Excel files
     '!we can discuss certain codes/functions we used the .reindex, for example...'
 ### Load
 
